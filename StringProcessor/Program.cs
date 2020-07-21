@@ -435,7 +435,6 @@ namespace StringProcessor
                     showProcessText();
                     rez = getInput();
 
-
                     int counter = 0;
                     string line;
 
